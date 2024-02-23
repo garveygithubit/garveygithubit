@@ -4,6 +4,7 @@
 
 # Hi, I'm Garvey! 👋
 
+![image](https://github.com/garveygithubit/garveygithubit/assets/102570049/cc6f54a4-d8c8-40cb-9deb-788c0e08f925)
 
 ## 🚀 About Me
 I'm a full stack developer...
